@@ -2,8 +2,8 @@
 
 **ผู้จัดทำ:** ชวนากร การะบูรณ์ รหัสนิสิต 67160212
 
-- GitHub Repository: https://github.com/67160212-stack/web_dev_lab
-- GitHub Pages: https://67160212-stack.github.io/web_dev_lab/
+- GitHub Repository: https://github.com/67160212-stack/webdev-actions-lab
+- GitHub Pages: https://67160212-stack.github.io/webdev-actions-lab/
 
 ## Exercise 4: Workflow เริ่มเมื่อใด และ Job deploy ทำอะไร
 
